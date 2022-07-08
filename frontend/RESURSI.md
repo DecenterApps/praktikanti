@@ -15,3 +15,4 @@
 - Primer adrese/walleta sa failovanom transakcijom [link](https://etherscan.io/address/0x4af2a528e1d35f99ec4c514ca807a957449960d4)
 - Mempool vizuelizacija [link](https://txstreet.com/)
 - Primer out of gas transakcije [link](https://etherscan.io/tx/https://etherscan.io/tx/0x274a2521e988355b3a19ab295d717b9bff4e07e0a456d49c274fafcd9248ac53)
+- Potopisivanje transakcije(malo kriptografija) https://fission.codes/blog/everything-you-wanted-to-know-about-elliptic-curve-cryptography/
